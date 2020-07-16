@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "runGame", "runGame\runGame.vcxproj", "{059A7CF3-4D90-4876-8046-D2038FAD6BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{059A7CF3-4D90-4876-8046-D2038FAD6BDE}.Debug|x64.ActiveCfg = Debug|x64
+		{059A7CF3-4D90-4876-8046-D2038FAD6BDE}.Debug|x64.Build.0 = Debug|x64
+		{059A7CF3-4D90-4876-8046-D2038FAD6BDE}.Debug|x86.ActiveCfg = Debug|Win32
+		{059A7CF3-4D90-4876-8046-D2038FAD6BDE}.Debug|x86.Build.0 = Debug|Win32
+		{059A7CF3-4D90-4876-8046-D2038FAD6BDE}.Release|x64.ActiveCfg = Release|x64
+		{059A7CF3-4D90-4876-8046-D2038FAD6BDE}.Release|x64.Build.0 = Release|x64
+		{059A7CF3-4D90-4876-8046-D2038FAD6BDE}.Release|x86.ActiveCfg = Release|Win32
+		{059A7CF3-4D90-4876-8046-D2038FAD6BDE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01081C23-E819-47CA-A816-3D4CB4952065}
+	EndGlobalSection
+EndGlobal
